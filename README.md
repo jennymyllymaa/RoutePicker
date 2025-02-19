@@ -16,11 +16,11 @@ RoutePicker is a Flutter mobile app that generates running and walking routes us
 ## Screenshots  
 
 ### Main view and route selection
-![Main View](/readme-images/selecting.jpg)  
+<img src="/readme-images/selecting.jpg" alt="Main View" width="400"/>  
 
-### Stopwatch running  
-![Stopwatch Running](/readme-images/tracking.jpg)  
+### In action  
+<img src="/readme-images/tracking.jpg" alt="Stopwatch Running" width="400"/>  
 
-### Light theme  
-![Light Theme](/readme-images/lightmode.jpg)  
+### Light theme
+<img src="/readme-images/lightmode.jpg" alt="Light Theme" width="400"/>
  
